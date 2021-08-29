@@ -1,18 +1,18 @@
 <div align="center">
-<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Priyansh Mehta! 👋</h1>
+<h1>𝐇𝐞𝐥𝐥𝐨 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! , I'm Priyansh Mehta! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 </div>
 
 <h3 align="center">I'm a 2nd year Student at Vellore Institute of Technology, Vellore. </h3>
 
 ## &#x1f4c8; GitHub Stats
-![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshmehta22&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)
-<br/>
+![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshmehta22&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff)      
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshmehta22&langs_count=5&theme=tokyonight)]()
-<img src="https://gifer.com/en/39Cg">
+<p align="right">
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47w538v690xwf4ga4kfargrl7rqp00afl9fvef37ip&rid=giphy.gif&ct=g" width="500px"></p>
 <h3>A Bit More about me:<h3>
-  <p><ul><li>A Jaipur resident</li><li> DOB: 22/12/2002</li>
- <li> I’m currently studying at VIT vellore and doing CSE</li>
+  <p style="color:red"><ul><li>A Jaipur resident</li><li> DOB: 22/12/2002</li>
+ <li> currently studying at VIT vellore and doing CSE</li>
   <li>Doing HTML, CSS, C, Python</li></ul></p>
 <!-- - 🔭 I’m currently working as a freelancer. 
 - 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
