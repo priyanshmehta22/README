@@ -36,9 +36,9 @@
     <br />
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>I love interacting with different people</b> so if you want to say <b>Hi!, I'll be happy to know you more!</b> :)</em>
 <h3> Find me on</h3>
-<a href="https://github.com/priyanshmehta22" target= "_blank" ><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/" target= "_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/priyansh._.mehta" target= "_blank" ><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/priyanshmehta22"; target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/"; target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 
