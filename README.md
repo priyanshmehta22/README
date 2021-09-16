@@ -41,4 +41,3 @@
 <a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
-
