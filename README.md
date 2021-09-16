@@ -15,7 +15,7 @@
 <h2 align="center"><strong>GitHub Stats</strong><h2>  
 
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshmehta22&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff) 
- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshmehta22&langs_count=5&theme=omni)]()
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshmehta22&langs_count=5&theme=omni)]()
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshmehta22&theme=chartreuse-dark&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff)
  
 
