@@ -28,8 +28,8 @@
 - ⚡ Random Fact: Quick learner and socially active.   
 - 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development -->
   <hr>
-<h3>Random joke for you<h3>
-<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+<!--<h3>Random joke for you<h3>
+<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" /> -->
   <hr>
   <div align="center">
 <img src="https://gpvc.arturio.dev/priyanshmehta22" align="center" />
