@@ -22,14 +22,12 @@
 <h3>A Bit More about me:<h3>
   <p style="color:red"><ul><li>A Jaipur resident</li><li> DOB: 22/12/2002</li>
  <li> currently studying at VIT vellore and doing CSE</li>
-  <li>Doing HTML, CSS, C, Python</li></ul></p>
-<!-- - 🔭 I’m currently working as a freelancer. 
-- 💬 Ask me about my views on the future of Artificial Intelligence and Cyber Security. 
-- ⚡ Random Fact: Quick learner and socially active.   
-- 👯 I’m looking to collaborate on small projects on AI, ML and Full Stack Web Development -->
+  <li>Doing HTML, CSS, C, Python, JavaScript</li></ul></p>
+
   <hr>
-<!--<h3>Random joke for you<h3>
-<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" /> -->
+<h3>Random joke for you<h3>
+<img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
+
   <hr>
   <div align="center">
 <img src="https://gpvc.arturio.dev/priyanshmehta22" align="center" />
