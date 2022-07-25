@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/priyanshmehta22?style=social) 
 
 </div>
-<h3 align="center">I'm a 2nd year Student at Vellore Institute of Technology, Vellore. </h3>
+<h3 align="center">I'm a 3rd year Student at Vellore Institute of Technology, Vellore. </h3>
 <br />
 <br />
 <p align="center">
