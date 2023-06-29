@@ -30,8 +30,6 @@
 
   <hr>
   <div align="center">
-<img src="https://gpvc.arturio.dev/priyanshmehta22" align="center" />
-    <br />
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
 <h3>Find me on</h3>
 <a href="https://github.com/priyanshmehta22"; target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
