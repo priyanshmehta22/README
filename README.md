@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/priyanshmehta22?style=social) 
 
 </div>
-<h3 align="center">I'm a 3rd year Student at Vellore Institute of Technology, Vellore. </h3>
+<h3 align="center">I'm an Associate Software Developer @Oracle India Pvt Ltd. </h3>
 <br />
 <br />
 <p align="center">
@@ -19,11 +19,6 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priyanshmehta22&theme=chartreuse-dark&currStreakNum=00ffff&currStreakLabel=00ffff&fire=orange&sideLabels=00ffff)
  
 
-<h3>A Bit More about me:<h3>
-  <p style="color:red"><ul><li>A Jaipur resident</li><li> DOB: 22/12/2002</li>
- <li> currently studying at VIT vellore and doing CSE</li>
-  <li>Doing HTML, CSS, C, Python, JavaScript</li></ul></p>
-
   <hr>
 <h3>Random joke for you<h3>
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
@@ -32,8 +27,8 @@
   <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
 <h3>Find me on</h3>
-<a href="https://github.com/priyanshmehta22"; target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/"; target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://priyansh.onrender.com/"; target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2" /></a>
+<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/"; target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn" /></a>
+<a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-8A2BE2" /></a>
 </div>
 
