@@ -12,6 +12,15 @@
 
 <br />
 
+  <div align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
+<h3>Find me on</h3>
+<a href="https://priyansh.onrender.com/"; target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2" /></a>
+<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/"; target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8A2BE2" /></a>
+<a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-8A2BE2" /></a>
+</div>
+ <hr>
+
 <h2 align="center"><strong>GitHub Stats</strong><h2>  
 
 ![Priyansh's github stats](https://github-readme-stats.vercel.app/api?username=priyanshmehta22&show_icons=true&count_private=true&theme=chartreuse-dark&icon_color=00ffff) 
@@ -23,12 +32,6 @@
 <h3>Random joke for you<h3>
 <img src="https://readme-jokes.vercel.app/api" alt="README Jokes" />
 
-  <hr>
-  <div align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" /><em><b>Interacting with people is fun</b> but interacting with developers, <b>it is the best </b> :)</em>
-<h3>Find me on</h3>
-<a href="https://priyansh.onrender.com/"; target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-8A2BE2" /></a>
-<a href="https://www.linkedin.com/in/priyansh-mehta-8b44921bb/"; target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-8A2BE2" /></a>
-<a href="https://www.instagram.com/priyansh._.mehta"; target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-8A2BE2" /></a>
-</div>
+ 
+
 
